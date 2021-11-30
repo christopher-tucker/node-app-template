@@ -1,5 +1,5 @@
 const boiler = () => {
-    return;
+    return "boilerplate";
 };
 
 module.exports = { boiler };
